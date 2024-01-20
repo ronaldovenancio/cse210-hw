@@ -24,5 +24,11 @@ class Program
         myResume._jobs.Add(job2);
 
         myResume.Display();
+
+        //************************
+        Journal theJournal = new Journal();
+        Entry anEntry = new Entry();
+        anEntry.Display();
+
     }
 }
