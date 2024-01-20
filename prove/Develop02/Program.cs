@@ -61,7 +61,7 @@ class Program
                     break;
                 case 5:
                     // This part is to quite of the program
-                    Console.WriteLine("\nThank you for using the Journal App!\n");
+                    Console.WriteLine("\nThank you for using the Journal Programm!\n");
                     break;
                 default:
                     Console.WriteLine($"\nSorry the option you entered is not valid.");
