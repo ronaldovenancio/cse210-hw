@@ -1,0 +1,7 @@
+100
+Simple Goal:; Read A Book; Reading ; 100; True
+Simple Goal:; Running; Running A Marathon; 200; False
+Simple Goal:; Read A Book; Reading ; 100; False
+Simple Goal:; Running; Running A Marathon; 200; False
+Simple Goal:; Read A Book; Reading ; 100; False
+Simple Goal:; Running; Running A Marathon; 200; False

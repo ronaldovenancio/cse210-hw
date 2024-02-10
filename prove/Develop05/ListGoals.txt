@@ -1,0 +1,6 @@
+0
+Simple Goal:; Run A Marathon; Achieve 5Km; 100; False
+Simple Goal:; Read A Book; Finish The Reading Before April; 200; False
+Simple Goal:; Run A Marathon; Achieve 5Km; 100; False
+Simple Goal:; Read A Book; Finish The Reading Before April; 200; False
+Simple Goal:; Swimming Every Weekend; Try To Keep This Goal; 50; False

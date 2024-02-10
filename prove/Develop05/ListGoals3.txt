@@ -1,0 +1,3 @@
+400
+Check List Goal:; 1; Play Piano; 400; False; 4; 600; 1
+Check List Goal:; 1; Play Piano; 400; False; 4; 600; 0

@@ -1,0 +1,4 @@
+500
+Simple Goal:; Study; Study CSE210; 500; True
+Eternal Goal:; Study The Scripture; Reading The Scripture Every Monday; 200; False
+Eternal Goal:; Go To The Church; Go Church Every Sunday; 400; False

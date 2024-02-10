@@ -1,0 +1,5 @@
+280
+Simple Goal:; Running In The Morning; Activity For Health; 300; True
+Simple Goal:; Relax; Relaxing To Recover Energies; 200; False
+Eternal Goal:; Reading; Reading The Scrupture Every Day; 400; False
+Negative Goal:; Sleep Late; Sleep Later Than 23H; -20; False
