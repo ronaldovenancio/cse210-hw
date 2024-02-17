@@ -1,0 +1,7 @@
+W06: Final Project Plan
+
+Project Option Declaration
+I choose the option "Open-ended project" for my Final Project Plan. 
+
+Project description
+For my Final Project Plan, I hope to create a Hangman Game, which is a simple traditional word-guessing game played by two or more players. One player thinks of a word and the other players attempt to guess the word by suggesting letters one at a time. The word is represented by some dashes, each dash representing a letter in the word. The guessing players must correctly guess all the letters in the word to win. Each time a player suggests a letter that is not in the word, a part of a “hangman” figure is drawn. This is typically represented as a gallows and stick figure. The players lose the game if the entire hangman is drawn before the players can correctly guess the word. In general, this is typically 6 guesses. In this case, the player will be playing against the computer and a random word generator. The computer will generate a random word from a list provided. The player will have 6 guesses to guess the word or the computer wins. Each wrong guess will lead to a part of the “Hangman” being drawn. The score will be taken as an overall score for the game won. I will look at adding in letter scores based on scrabble game values. This game can be a great casual game to pass the time, but it also can be a great way to teach vocabulary and spelling words.
